@@ -1,0 +1,75 @@
+variables - is a name given to the storage area. 
+data type - tells to compiler what type of value is hold by the variable.
+
+loops/looping- types = 3 for loop,while loop and do while 
+
+questions could be asked like - when should we go for a loop or looping 
+
+for loop - when range is known or given 
+while loop - when range is not given 
+
+funtion- self contained block , which always returns something - value or something like that 
+
+in python only we can return multiple values in function and not in c or c++
+
+scanf- user se value lena 
+
+str- represented in ("")"me present values"
+
+Boolean - False / True statements 
+
+float - 2.3 /4.5 likewise values 
+
+/ - division - gives in decimal - 2.3 etc 
+//-floar division - gives values in complete integers-4,5,etc 
+
+% - used to give remainder e.g-n= 1024 % = 4 
+
+read conditional statements and looping 
+
+h.w- accept 9 digit number and find sum of 1st and last no in 3 steps 
+
+NESTED FOR - for ke andar for loop 
+
+temp - used for reversing the position from first to last or reverse the position 
+1 2 3 4 5 
+i       j
+
+temp 
+
+5 2 3 4 1 
+i       j
+
+while no>0 - jab tak mera number 0 naahi hota woh while me chalte rahega 
+
+pypy-is a compiler which is 4x faster than the python compiler 
+
+whwenever to skip any value use function  - continue 
+
+to stop the code after certain point  use - break 
+
+append - to append the values in the 
+
+DATA STRUCTRES AND ALGORITHMS 
+
+DATA STRUCTURES - WE USE STACK AND QUE AND ORGANISE DATA IN A Q DATA STRUCTURE 
+
+ALGORITHM - STEP BY STEP INSTRUCTION OF ANY PROGRAMM IS CALLED ALGORITHM 
+
+WHY IS DSA IMPORTANT - IMP QUESTION 
+
+TYPES OF DSA - PRIMITIVE AND NON PRIMITIVE 
+
+TIME AND SPACE COMPLEXITY - 
+
+TIME COMPLEXITY - EXECUTION TIME - MORE OR LESS 
+SPACE COMPLEXITY - EXECUTION TIME MUST BE LESS 
+
+BIG O NOTATION- HELPS US EXPRESS EFFICIENCY OF ALGORITHM 
+
+ 
+
+
+
+
+
